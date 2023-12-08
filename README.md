@@ -1,6 +1,6 @@
 # Pricefetcher microservice
 
-This is a simple microservice to fetch prices of crypto tokens and return them as a JSON or GRPC (for scalability) depending on preference, this microservices was built using
+This is a simple microservice to fetch prices of crypto tokens and return them as a JSON or GRPC (for scalability) depending on preference, this microservice was built using
 
 - golang
 - gRPC
